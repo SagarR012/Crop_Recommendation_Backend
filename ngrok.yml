@@ -1,0 +1,5 @@
+authtoken: 359IbnDLGgjhkxbTykYJPyRB3ky_5p7fHCc1TXQ2r15K81oRa
+tunnels:
+  backend:
+    addr: 5000
+    proto: http
